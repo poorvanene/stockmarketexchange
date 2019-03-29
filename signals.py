@@ -1,6 +1,3 @@
-'''Poorva Nene 38426682'''
-
-
 
 class TrueRange():
     '''class that generates signals based on true range'''
