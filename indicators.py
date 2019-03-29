@@ -1,4 +1,3 @@
-'''Poorva Nene 38426682'''
 
 class TrueRange():
     '''class that goes through list of data and gets true range indicators'''
