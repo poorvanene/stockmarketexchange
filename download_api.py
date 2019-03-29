@@ -1,4 +1,3 @@
-'''Poorva Nene 38426682'''
 
 import urllib.request
 import urllib.error
